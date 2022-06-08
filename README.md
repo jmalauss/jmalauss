@@ -14,9 +14,15 @@ An Analysis of Kickstarter Campaigns
 
 ## Analysis of Outcomes Based on Launch Date
 
+  This analysis was performed to help Louise understand and visualize campaign outcomes based on their launch date. Louise was specifically interested in the theater Parent Category, so we filtered our data by Parent Category. A pivot table was created to display launch date (in months) in rows, outcomes (successful, failed and canceled) in columns and a count of outcomes in values. Please see attached for the pivot table. Additionally, we used that pivot table to create a pivot chart, specifically a line graph. Since Louise was only interested in theater campaigns, the pivot table and line chart are filtered to only show campaigns in that category. Now, Louise can easily see trends within her data points.
+
 ### Attachments - Outcomes Based on Launch Date
 
 ## Analysis of Outcomes Based on Goals
+
+  This analysis was performed to help Louise understand and visualize campaign outcomes based on their goals. To best analyze this data, we wanted to count how many goals fell within a range of goals. In other words, we created an additional column used to categorize all of the goals into ranges. For example: goals may fall within the range of 1000 to 4999 or 5000 to 9999. With this additional column, we were able to calculate how many successful, canceled and failed campaigns fell within each goal range, to better understand the relationship between goals and campaign outcomes.
+
+  Please see attached for the new table we created for this analysis, and the corresponding line chart. Note: Louise was only interested in outcomes based on goals within the plays subcategory, so our data is filtered to only see outcomes and goals for plays campaigns. 
 
 ### Attachments - Outcomes Based on Goals
 
