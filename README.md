@@ -18,6 +18,7 @@ An Analysis of Kickstarter Campaigns
 
 ### Attachments - Outcomes Based on Launch Date
 
+![Outcomes Based on Launch Date - Theater Campaigns - Pivot Table](https://github.com/jmalauss/kickstarter_analysis/blob/main/Outcomes_Launch_theater_pivot.png)
 ![Outcomes Based on Launch Date - Theater Campaigns](https://github.com/jmalauss/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ## Analysis of Outcomes Based on Goals
@@ -28,6 +29,7 @@ An Analysis of Kickstarter Campaigns
 
 ### Attachments - Outcomes Based on Goals
 
+![Outcomes Based on Goals - plays Campaigns](https://github.com/jmalauss/kickstarter_analysis/blob/main/Outcomes_Goals_plays_table.png)
 ![Outcomes Based on Goals - plays Campaigns](https://github.com/jmalauss/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
 
 # Challenges
