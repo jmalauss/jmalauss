@@ -18,6 +18,8 @@ An Analysis of Kickstarter Campaigns
 
 ### Attachments - Outcomes Based on Launch Date
 
+![Outcomes Based on Launch Date - Theater Campaigns](https://github.com/jmalauss/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ## Analysis of Outcomes Based on Goals
 
   This analysis was performed to help Louise understand and visualize campaign outcomes based on their goals. To best analyze this data, we wanted to count how many goals fell within a range of goals. In other words, we created an additional column used to categorize all of the goals into ranges. For example: goals may fall within the range of 1000 to 4999 or 5000 to 9999. With this additional column, we were able to calculate how many successful, canceled and failed campaigns fell within each goal range, to better understand the relationship between goals and campaign outcomes.
@@ -25,6 +27,8 @@ An Analysis of Kickstarter Campaigns
   Please see attached for the new table we created for this analysis, and the corresponding line chart. Note: Louise was only interested in outcomes based on goals within the plays subcategory, so our data is filtered to only see outcomes and goals for plays campaigns. 
 
 ### Attachments - Outcomes Based on Goals
+
+![Outcomes Based on Goals - plays Campaigns](https://github.com/jmalauss/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
 
 # Challenges
 
